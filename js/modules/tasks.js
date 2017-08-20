@@ -1,5 +1,5 @@
 ﻿var tasks = [
-	'Wynieść śmieci',
-	'Pójść do sklepu',
-	'Pobiegać',	
+	'Running',
+	'Shopping',
+	'Meeting with mr Smith',	
 ];
