@@ -1,10 +1,3 @@
-// Show tasks
-function showTasks() {
-	tasks.forEach(function(title) {
-		addNewTask(title);
-	});
-}
-
 // Toggle complete
 function toggleTaskComplete(toggleBtn) {
 	toggleBtn.classList.toggle('btn-success');
