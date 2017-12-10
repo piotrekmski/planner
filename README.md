@@ -1,2 +1,2 @@
 # planner
-Task list creator 
+Task manager in JS and html.
